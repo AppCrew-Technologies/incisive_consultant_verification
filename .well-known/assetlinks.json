@@ -1,0 +1,27 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.consultant.incisive",
+      "sha256_cert_fingerprints": [
+        "4D:9D:2B:AF:07:8D:A1:7E:C5:EC:E9:7B:0C:3E:9B:0F:A2:E9:7D:1A:24:17:B9:45:DA:7A:BF:39:45:45:D9:62"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.consultant.incisive.dev",
+      "sha256_cert_fingerprints": [
+        "A5:32:39:38:3F:C5:7D:8D:A8:E4:38:F2:CE:AA:48:A8:9A:DC:CB:E1:40:1B:03:C1:89:18:94:33:3F:86:35:DE"
+      ]
+    }
+  }
+]

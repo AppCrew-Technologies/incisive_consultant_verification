@@ -1,0 +1,21 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "7NL4PUW3ZS.com.consultant.incisive",
+				"paths": [
+					"/job",
+					"/job/*"
+				]
+			},
+			{
+				"appID": "7NL4PUW3ZS.com.consultant.incisive.dev",
+				"paths": [
+					"/job",
+					"/job/*"
+				]
+			}
+		]
+	}
+}
